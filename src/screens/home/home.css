@@ -1,0 +1,9 @@
+.home-main_container {
+	background-color: #fff;
+	margin-top: 7%;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
